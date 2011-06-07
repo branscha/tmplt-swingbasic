@@ -7,7 +7,7 @@ Dependencies:
 - JavaHelp artefact.
 
 Description: A basic Swing application consisting of (1) a frame, (2) a menu bar and (3) a help system.
-             Help is fundamental part of the template, ist should not be ignored.
+             Help is fundamental part of the template, it should not be ignored.
              Published under MIT License.
 
 Characteristics
