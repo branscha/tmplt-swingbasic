@@ -40,6 +40,10 @@ JavaHelp
      4. Do a 'mvn clean install' in order to copy the generated resources to the output directory.
         If you don't do this step, the generated files will not be picked up by the search view.
 
+Build instructions:
+ * It is a Maven project, the dependencies are in the POM and the required JavaHelp jar is in the public repository.
+ * The entry point is the 'com.sdicons.app.App' class which contains the main() static method.
+
 References
 - Icons
   * http://www.iconfinder.com/
