@@ -29,12 +29,7 @@ PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp HelpSet Version 2.0//EN"
 
 <helpset version="2.0">
 
-    <presentation default= true>
-        <name>main window</name>
-        <size width="647" height="400"/>
-        <location x="200" y="200"/>
-        <title>Application Help Topics</title>
-    </presentation>
+   <title>Application Help Topics</title>
 
     <maps>
         <homeID>intro</homeID>
@@ -65,6 +60,13 @@ PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp HelpSet Version 2.0//EN"
     <!--JavaHelpSearch-->
     <!--</data>-->
     <!--</view>-->
+
+    <presentation default="true">
+        <name>main window</name>
+        <size width="647" height="400"/>
+        <location x="200" y="200"/>
+        <title>Application Help Topics</title>
+    </presentation>
 
 </helpset>
 
